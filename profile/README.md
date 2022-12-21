@@ -28,8 +28,8 @@
 
 
 
-## QR Code
-[Preview website](https://deepdivedubai.github.io/qrcode/)
+## QR Codes
+[Preview website](https://deepdivedubai.github.io/qrcodes/)
 
 ![reader](https://github.com/deepdivedubai/.github/blob/main/x.png?raw=true)
 
