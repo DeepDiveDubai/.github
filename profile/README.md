@@ -25,3 +25,11 @@
 [Preview website](https://deepdivedubai.github.io/x/)
 
 ![reader](https://github.com/deepdivedubai/.github/blob/main/x.png?raw=true)
+
+
+
+## QR Code
+[Preview website](https://deepdivedubai.github.io/qrcode/)
+
+![reader](https://github.com/deepdivedubai/.github/blob/main/x.png?raw=true)
+
